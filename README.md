@@ -1,11 +1,11 @@
 
-![license](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ## Title
-mustafa
+Readme generator
   
 ## Description 
 
-
+Command-line application that dynamically generates a professional README.md file from a user's input
 ## Table of Contents
 
 1. [Description](#description) 
@@ -17,23 +17,24 @@ mustafa
 7. [Questions](#questions) 
 
 ## Installation
-
+NODE JS ( NPM install inquirer@8.2.4)
 
 ## Usage 
-
+MARKDOWN , javascript and NODE JS 
 
 ## License
-License is under MIT license 
+License is under Apache license 
 
 ## Contribution
-
+n/a
 
 ## Testing
-
+n/a
 
 ## Questions
 
-Git User link: https://github.com/  
+Git User link: https://github.com/mustafasigad  
 
-Email:  
- 
+Email: mus.sigad@gmail.com  
+
+Video link : https://drive.google.com/file/d/1fHfdLUAbVETAapaU-IG-aOmdm8kP8m8T/view
